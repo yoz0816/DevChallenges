@@ -66,7 +66,7 @@ While working on this challenge, I practiced:
 ## Links
 
 - Live Site: [View Live Site](https://yoz0816.github.io/DevChallenges/our-team-layout-master/)
-- Repository: [GitHub Repository]()
+- Repository: [GitHub Repository](https://github.com/yoz0816/DevChallenges/tree/main/our-team-layout-master)
 - Challenge: [DevChallenges](https://devchallenges.io/)
 
 ## Acknowledgements
