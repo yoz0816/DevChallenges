@@ -1,0 +1,249 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  background-color: #ffffff;
+  color: #1e293b;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  -webkit-font-smoothing: antialiased;
+}
+
+.hero {
+  width: 100%;
+  background-color: #f8fafc;
+  background-image: radial-gradient(#cbd5e1 0.75px, transparent 0.75px);
+  background-size: 10px 10px;
+  padding: 3.5rem 1.5rem 3rem;
+  text-align: center;
+  border-bottom: 1px solid #f1f5f9;
+}
+
+.hero h1 {
+  font-size: 2.25rem;
+  font-weight: 800;
+  color: #0f172a;
+  letter-spacing: -0.025em;
+  margin-bottom: 0.75rem;
+}
+
+.hero p {
+  max-width: 520px;
+  margin: 0 auto;
+  color: #64748b;
+  font-size: 0.95rem;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.table-wrapper {
+  width: 100%;
+  max-width: 1100px;
+  margin: 3rem auto;
+  padding: 0 1.5rem;
+  overflow-x: auto;
+}
+
+.pricing-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+.col-features { width: 22%; }
+.col-free     { width: 19.5%; }
+.col-team     { width: 19.5%; }
+.col-popular  { width: 19.5%; }
+.col-enterprise { width: 19.5%; }
+
+.pricing-table th[scope="col"] {
+  height: 140px;
+  vertical-align: bottom;
+  padding-bottom: 1.25rem;
+  text-align: center;
+  font-weight: normal;
+}
+
+.plan-name {
+  display: block;
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #3b82f6;
+  margin-bottom: 0.25rem;
+}
+
+.price {
+  display: block;
+  font-size: 2.75rem;
+  font-weight: 800;
+  color: #0f172a;
+  line-height: 1;
+  letter-spacing: -0.03em;
+}
+
+.period {
+  display: block;
+  font-size: 0.8rem;
+  color: #64748b;
+  font-weight: 500;
+  margin-top: 0.35rem;
+}
+
+tbody th[scope="row"] {
+  background-color: #f8fafc;
+  text-align: left;
+  padding-left: 1.25rem;
+  font-size: 0.875rem;
+  font-weight: 700;
+  color: #0f172a;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+tbody tr:first-child th[scope="row"] { border-top-left-radius: 12px; }
+tbody tr:last-child th[scope="row"] { border-bottom-left-radius: 12px; }
+
+.pricing-table td {
+  height: 48px;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 0.875rem;
+  font-weight: 500;
+  border-bottom: 1px solid #f1f5f9;
+}
+
+.pricing-table td img {
+  width: 16px;
+  height: 16px;
+}
+
+.pricing-table tfoot td {
+  height: 80px;
+  vertical-align: middle;
+}
+
+.cta-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: #3b82f6;
+  font-weight: 700;
+  font-size: 0.875rem;
+  text-decoration: none;
+}
+
+.cta-link img {
+  width: 14px;
+  height: 14px;
+  transition: transform 0.2s ease;
+}
+
+.cta-link:hover img {
+  transform: translateX(3px);
+}
+
+.col-popular {
+  background-color: #0f172a;
+  color: #ffffff;
+}
+
+.col-popular .price {
+  color: #ffffff;
+}
+
+.col-popular .period {
+  color: #94a3b8;
+}
+
+thead .col-popular {
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+}
+
+tbody td.col-popular {
+  border-bottom-color: #1e293b;
+}
+
+tfoot td.col-popular {
+  background-color: #9a531a; 
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+}
+
+.popular-badge {
+  display: inline-block;
+  background-color: #3b82f6;
+  color: #ffffff;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.25rem 0.85rem;
+  border-radius: 9999px;
+  margin-bottom: 0.5rem;
+}
+
+.cta-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 0.875rem;
+  text-decoration: none;
+}
+
+.cta-button img {
+  filter: brightness(0) invert(1);
+}
+
+.author-info {
+  margin: auto 0 2rem;
+  font-size: 0.85rem;
+  color: #64748b;
+  text-align: center;
+}
+
+.author-info a {
+  color: #3b82f6;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+@media (max-width: 1024px) {
+  .col-free {
+    display: none !important;
+  }
+}
+
+@media (max-width: 640px) {
+  .col-team {
+    display: none !important;
+  }
+
+  .table-wrapper {
+    padding: 0 0.5rem;
+  }
+
+  .hero h1 {
+    font-size: 1.75rem;
+  }
+
+  .hero p {
+    font-size: 0.85rem;
+  }
+
+  tbody th[scope="row"] {
+    font-size: 0.75rem;
+    padding-left: 0.5rem;
+  }
+
+  .price {
+    font-size: 2rem;
+  }
+}

@@ -6,13 +6,14 @@ I use these challenges to strengthen my understanding of **HTML, CSS, responsive
 
 ## Table of Contents
 
-* [About](#about)
-* [Challenges](#challenges)
-* [Technologies](#technologies)
-* [Learning Goals](#learning-goals)
-* [Live Projects](#live-projects)
-* [Useful Resources](#useful-resources)
-* [Author](#author)
+- [DevChallenges Solutions](#devchallenges-solutions)
+  - [Table of Contents](#table-of-contents)
+  - [About](#about)
+  - [Challenges](#challenges)
+  - [Technologies](#technologies)
+  - [Learning Goals](#learning-goals)
+  - [Useful Resources](#useful-resources)
+  - [Author](#author)
 
 ## About
 
