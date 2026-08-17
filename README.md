@@ -25,26 +25,26 @@ The main goal of this repository is to document my frontend development progress
 
 ## Challenges
 
-| Challenge | Technologies | Live Demo | Source Code |
-| --------- | ------------ | --------- | ----------- |
-| **Meet the Team Section** | HTML, CSS, Grid, Flexbox | [Live Demo](https://yoz0816.github.io/DevChallenges/our-team-layout-master/) | [Source Code](https://github.com/yoz0816/DevChallenges/tree/main/our-team-layout-master) |
-| **Pricing Table** | HTML, CSS| [Live Demo](https://yoz0816.github.io/DevChallenges/pricing-table-master/) | [Source Code](https://github.com/yoz0816/DevChallenges/tree/main/pricing-table-master) |
+| Challenge                 | Technologies                                | Live Demo                                                                         | Source Code                                                                                   |
+| ------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Meet the Team Section** | HTML, CSS, Grid, Flexbox                    | [Live Demo](https://yoz0816.github.io/DevChallenges/our-team-layout-master/)      | [Source Code](https://github.com/yoz0816/DevChallenges/tree/main/our-team-layout-master)      |
+| **Pricing Table**         | HTML, CSS                                   | [Live Demo](https://yoz0816.github.io/DevChallenges/pricing-table-master/)        | [Source Code](https://github.com/yoz0816/DevChallenges/tree/main/pricing-table-master)        |
+| **Device Shop Checkout**  | HTML, CSS, Grid, Flexbox, Responsive Design | [Live Demo](https://yoz0816.github.io/DevChallenges/device-shop-checkout-master/) | [Source Code](https://github.com/yoz0816/DevChallenges/tree/main/device-shop-checkout-master) |
 
-More challenges will be added as I continue learning and practicing.
 
 ## Technologies
 
 The technologies used across this repository include:
 
-- HTML5
-- CSS3
-- Responsive Design
-- Media Queries
-- CSS Grid
-- Flexbox
-- JavaScript
-- Git & GitHub
-- GitHub Pages
+* HTML5
+* CSS3
+* Responsive Design
+* Media Queries
+* CSS Grid
+* Flexbox
+* JavaScript
+* Git & GitHub
+* GitHub Pages
 
 Technologies may vary depending on the requirements of each challenge.
 
@@ -52,26 +52,26 @@ Technologies may vary depending on the requirements of each challenge.
 
 Through these challenges, I am focusing on improving my ability to:
 
-- Convert designs into responsive websites
-- Build layouts with CSS Grid and Flexbox
-- Write clean and maintainable HTML and CSS
-- Create responsive interfaces for different screen sizes
-- Improve accessibility and semantic HTML
-- Work with typography, spacing, colors, and visual hierarchy
-- Organize frontend projects professionally
-- Use Git and GitHub effectively
-- Deploy projects using GitHub Pages
-- Build consistency through regular frontend practice
+* Convert designs into responsive websites
+* Build layouts with CSS Grid and Flexbox
+* Write clean and maintainable HTML and CSS
+* Create responsive interfaces for different screen sizes
+* Improve accessibility and semantic HTML
+* Work with typography, spacing, colors, and visual hierarchy
+* Organize frontend projects professionally
+* Use Git and GitHub effectively
+* Deploy projects using GitHub Pages
+* Build consistency through regular frontend practice
 
 ## Useful Resources
 
-- [DevChallenges](https://devchallenges.io/) — Frontend development challenges and practice projects.
-- [MDN Web Docs](https://developer.mozilla.org/) — Documentation and references for HTML, CSS, and JavaScript.
-- [CSS-Tricks](https://css-tricks.com/) — Articles and guides about CSS and frontend development.
+* [DevChallenges](https://devchallenges.io/) — Frontend development challenges and practice projects.
+* [MDN Web Docs](https://developer.mozilla.org/) — Documentation and references for HTML, CSS, and JavaScript.
+* [CSS-Tricks](https://css-tricks.com/) — Articles and guides about CSS and frontend development.
 
 ## Author
 
 **Yo Z**
 
-- GitHub: [@yoz0816](https://github.com/yoz0816)
-- DevChallenges: [@yoz0816](https://devchallenges.io/)
+* GitHub: [@yoz0816](https://github.com/yoz0816)
+* DevChallenges: [@yoz0816](https://devchallenges.io/)
