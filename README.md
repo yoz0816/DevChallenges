@@ -30,6 +30,7 @@ The main goal of this repository is to document my frontend development progress
 | **Meet the Team Section** | HTML, CSS, Grid, Flexbox                    | [Live Demo](https://yoz0816.github.io/DevChallenges/our-team-layout-master/)      | [Source Code](https://github.com/yoz0816/DevChallenges/tree/main/our-team-layout-master)      |
 | **Pricing Table**         | HTML, CSS                                   | [Live Demo](https://yoz0816.github.io/DevChallenges/pricing-table-master/)        | [Source Code](https://github.com/yoz0816/DevChallenges/tree/main/pricing-table-master)        |
 | **Device Shop Checkout**  | HTML, CSS, Grid, Flexbox, Responsive Design | [Live Demo](https://yoz0816.github.io/DevChallenges/device-shop-checkout-master/) | [Source Code](https://github.com/yoz0816/DevChallenges/tree/main/device-shop-checkout-master) |
+|  **NewsLetter** |  HTML,CSS | [Live Demo](https://yoz0816.github.io/DevChallenges/newsletter/)  | [Source Code](https://github.com/yoz0816/DevChallenges/tree/main/newsletter)  |
 
 
 ## Technologies

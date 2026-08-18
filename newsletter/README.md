@@ -35,8 +35,8 @@ Users should be able to:
 ![Screenshot](./thumbnail.jpg)
 ### Links
 
-* **Solution:** [GitHub Repository](#)
-* **Live Site:** [View Live Site](#)
+* **Solution:** [GitHub Repository](https://github.com/yoz0816/DevChallenges/tree/main/newsletter)
+* **Live Site:** [View Live Site](https://yoz0816.github.io/DevChallenges/newsletter/)
 
 ## My Process
 
