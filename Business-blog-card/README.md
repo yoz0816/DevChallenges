@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="YOUR_DEMO_LINK">
+    <a href="https://yoz0816.github.io/DevChallenges/Business-blog-card/">
       Demo
     </a>
     <span> | </span>
-    <a href="YOUR_SOLUTION_LINK">
+    <a href="https://github.com/yoz0816/DevChallenges/tree/main/Business-blog-card">
       Solution
     </a>
     <span> | </span>
