@@ -9,11 +9,11 @@ Solution for a challenge <a href="https://devchallenges.io/challenge/simple-homp
 <div align="center">
 
   <h3>
-    <a href="YOUR_DEMO_LINK">
+    <a href="https://yoz0816.github.io/DevChallenges/simple-homepage-master/">
       Demo
     </a>
     <span> | </span>
-    <a href="YOUR_SOLUTION_LINK">
+    <a href="https://github.com/yoz0816/DevChallenges/tree/main/simple-homepage-master">
       Solution
     </a>
     <span> | </span>
