@@ -1,0 +1,271 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-image: url(resources/background.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+}
+
+main {
+    min-height: 100vh;
+}
+
+.logo {
+    width: 100px;
+    margin: 20px 0 0 70px;
+}
+
+.hero-section {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    padding: 40px 20px 60px;
+}
+
+.hero-section h1 {
+    max-width: 650px;
+    text-align: center;
+    font-size: 64px;
+    line-height: 1.2;
+    letter-spacing: -1.5px;
+    font-weight: 700;
+}
+
+.hero-section > p {
+    max-width: 650px;
+    margin-top: 24px;
+    text-align: center;
+    font-size: 32px;
+    line-height: 1.5;
+}
+
+.from {
+    width: 810px;
+    margin-top: 74px;
+    padding: 32px;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.2);
+}
+
+form {
+    width: 100%;
+}
+
+.form-start,
+.from-middle {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px;
+}
+
+article {
+    position: relative;
+}
+
+label {
+    display: block;
+    margin-bottom: 7px;
+    color: white;
+    font-size: 14px;
+}
+
+input,
+textarea {
+    width: 100%;
+    border: none;
+    outline: none;
+    background: #f8f9fc;
+    color: #172033;
+    font-family: inherit;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 15px;
+}
+
+input {
+    height: 68px;
+    padding: 0 22px;
+}
+
+textarea {
+    height: 205px;
+    padding: 24px 22px;
+    resize: none;
+}
+
+input::placeholder,
+textarea::placeholder {
+    color: #172033;
+    opacity: 1;
+}
+
+.from-middle {
+    margin-top: 24px;
+}
+
+.from-end {
+    margin-top: 24px;
+}
+
+.msg textarea {
+    display: block;
+}
+
+.size img,
+.subject img {
+    position: absolute;
+    width: 20px;
+    right: 18px;
+    bottom: 24px;
+}
+
+.btn {
+    width: 100%;
+    height: 72px;
+    margin-top: 24px;
+    border: none;
+    border-radius: 15px;
+    background: #ffffff;
+    color: #4035b8;
+    font-family: inherit;
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.author-info {
+    display: none;
+}
+
+@media (max-width: 1100px) {
+    .logo {
+        margin-left: 70px;
+    }
+
+    .hero-section {
+        padding-top: 40px;
+    }
+
+    .hero-section h1 {
+        font-size: 64px;
+    }
+
+    .hero-section > p {
+        font-size: 32px;
+    }
+
+    .from {
+        width: 810px;
+        margin-top: 74px;
+    }
+}
+
+@media (max-width: 850px) {
+    .logo {
+        margin-left: 45px;
+    }
+
+    .hero-section h1 {
+        font-size: 56px;
+    }
+
+    .hero-section > p {
+        font-size: 28px;
+    }
+
+    .from {
+        width: 90%;
+    }
+}
+
+@media (max-width: 600px) {
+    body {
+        background-position: center;
+        background-size: cover;
+    }
+
+    .logo {
+        width: 96px;
+        margin: 20px 0 0 12px;
+    }
+
+    .hero-section {
+        padding: 47px 12px 50px;
+    }
+
+    .hero-section h1 {
+        max-width: 390px;
+        font-size: 40px;
+        line-height: 1.25;
+        letter-spacing: -0.8px;
+    }
+
+    .hero-section > p {
+        max-width: 390px;
+        margin-top: 18px;
+        font-size: 18px;
+        line-height: 1.45;
+    }
+
+    .from {
+        width: 100%;
+        margin-top: 72px;
+        padding: 24px 12px 20px;
+        border-radius: 18px;
+    }
+
+    .form-start,
+    .from-middle {
+        grid-template-columns: 1fr;
+        gap: 24px;
+    }
+
+    .from-middle {
+        margin-top: 24px;
+    }
+
+    .from-end {
+        margin-top: 24px;
+    }
+
+    label {
+        margin-bottom: 7px;
+        font-size: 14px;
+    }
+
+    input {
+        height: 68px;
+        padding: 0 22px;
+        border-radius: 15px;
+        font-size: 16px;
+    }
+
+    textarea {
+        height: 207px;
+        padding: 24px 22px;
+        border-radius: 15px;
+        font-size: 16px;
+    }
+
+    .btn {
+        height: 74px;
+        margin-top: 24px;
+        border-radius: 15px;
+        font-size: 20px;
+    }
+
+    .size img,
+    .subject img {
+        right: 18px;
+        bottom: 24px;
+    }
+}
