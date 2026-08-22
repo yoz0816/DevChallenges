@@ -9,11 +9,11 @@ Solution for a challenge <a href="https://devchallenges.io/challenge/contact-pag
 <div align="center">
 
   <h3>
-    <a href="https://yoz0816.github.io/DevChallenges/contact-page/">
+    <a href="https://yoz0816.github.io/DevChallenges/contact-page-master/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/yoz0816/DevChallenges/tree/main/contact-page">
+    <a href="https://github.com/yoz0816/DevChallenges/tree/main/contact-page-master">
       Solution
     </a>
     <span> | </span>
