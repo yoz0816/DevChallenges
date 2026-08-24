@@ -1,0 +1,307 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-color: #FAFAFA;
+    font-family: Arial, sans-serif;
+    color: #18181B;
+}
+
+.container {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-section {
+    width: 100%;
+    max-width: 1135px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 70px;
+}
+
+.hero-content {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.icon {
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F6C044;
+    border-radius: 50%;
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+
+.hero-content h1 {
+    font-size: 38px;
+    line-height: 1.2;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}
+
+.detail {
+    color: #55555C;
+    font-size: 18px;
+    line-height: 1.9;
+    letter-spacing: 0.1px;
+    margin-top: 2px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    margin-top: 17px;
+}
+
+.card-detail {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #55555C;
+    font-size: 14px;
+}
+
+.card-detail img {
+    width: 20px;
+    height: 20px;
+}
+
+.hero-images {
+    width: 555px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.google,
+.meta {
+    width: 357px;
+    min-height: 188px;
+    background-color: #FFFFFF;
+    border-radius: 12px;
+    box-shadow: 0 30px 100px rgba(17, 23, 41, 0.08);
+    padding: 28px 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.google {
+    align-self: flex-end;
+}
+
+.meta {
+    align-self: flex-start;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+}
+
+.header > img {
+    max-width: 116px;
+    max-height: 30px;
+    object-fit: contain;
+}
+
+.star {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.star img {
+    width: 18px;
+    height: 18px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.content h2 {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.4;
+}
+
+.content p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #55555C;
+}
+
+.author-info {
+    font-size: 14px;
+    text-align: center;
+    margin-top: 16px;
+    color: rgb(55, 65, 81);
+}
+
+.author-info a {
+    text-decoration: none;
+}
+
+@media (max-width: 1100px) {
+    .container {
+        align-items: flex-start;
+    }
+
+    .hero-section {
+        max-width: 930px;
+        padding: 40px 20px;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 35px;
+    }
+
+    .hero-content {
+        width: 100%;
+        max-width: none;
+    }
+
+    .detail {
+        max-width: 900px;
+        line-height: 1.9;
+    }
+
+    .card {
+        margin-top: 15px;
+    }
+
+    .hero-images {
+        width: 100%;
+        max-width: 555px;
+        align-self: center;
+        gap: 40px;
+    }
+
+    .google {
+        align-self: flex-end;
+    }
+
+    .meta {
+        align-self: flex-start;
+    }
+}
+
+@media (max-width: 600px) {
+    .container {
+        min-height: auto;
+    }
+
+    .hero-section {
+        width: 100%;
+        padding: 40px 12px 30px;
+        gap: 35px;
+    }
+
+    .hero-content {
+        width: 100%;
+        gap: 12px;
+    }
+
+    .icon {
+        width: 47px;
+        height: 47px;
+        font-size: 24px;
+        margin-bottom: 5px;
+    }
+
+    .hero-content h1 {
+        font-size: 36px;
+        line-height: 1.2;
+    }
+
+    .detail {
+        font-size: 18px;
+        line-height: 1.95;
+    }
+
+    .card {
+        margin-top: 18px;
+        gap: 14px;
+    }
+
+    .card-detail {
+        align-items: flex-start;
+        font-size: 14px;
+        line-height: 1.5;
+    }
+
+    .card-detail img {
+        width: 20px;
+        height: 20px;
+        flex-shrink: 0;
+        margin-top: 1px;
+    }
+
+    .hero-images {
+        width: 100%;
+        max-width: none;
+        gap: 40px;
+    }
+
+    .google,
+    .meta {
+        width: 100%;
+        min-height: 188px;
+        padding: 28px 40px;
+    }
+
+    .google,
+    .meta {
+        align-self: stretch;
+    }
+
+    .header {
+        gap: 15px;
+        flex-wrap: wrap;
+    }
+
+    .header > img {
+        max-width: 105px;
+    }
+
+    .star {
+        gap: 7px;
+    }
+
+    .star img {
+        width: 18px;
+        height: 18px;
+    }
+
+    .content h2 {
+        font-size: 16px;
+    }
+
+    .content p {
+        font-size: 16px;
+        line-height: 1.8;
+    }
+
+    .author-info {
+        display: none;
+    }
+}
