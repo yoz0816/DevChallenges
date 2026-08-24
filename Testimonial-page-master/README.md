@@ -9,11 +9,11 @@ Solution for a challenge <a href="https://devchallenges.io/challenge/testimonial
 <div align="center">
 
   <h3>
-    <a href="YOUR_DEMO_LINK">
+    <a href="https://yoz0816.github.io/DevChallenges/Testimonial-page-master/">
       Demo
     </a>
     <span> | </span>
-    <a href="YOUR_SOLUTION_LINK">
+    <a href="https://github.com/yoz0816/DevChallenges/tree/main/Testimonial-page-master">
       Solution
     </a>
     <span> | </span>
