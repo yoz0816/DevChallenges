@@ -31,6 +31,12 @@ The main goal of this repository is to document my frontend development progress
 | **Pricing Table**         |[Live Demo](https://yoz0816.github.io/DevChallenges/pricing-table-master/)        | [Source Code](https://github.com/yoz0816/DevChallenges/tree/main/pricing-table-master)        |
 | **Device Shop Checkout**  |[Live Demo](https://yoz0816.github.io/DevChallenges/device-shop-checkout-master/) | [Source Code](https://github.com/yoz0816/DevChallenges/tree/main/device-shop-checkout-master) |
 |  **NewsLetter** |[Live Demo](https://yoz0816.github.io/DevChallenges/newsletter/)  | [Source Code](https://github.com/yoz0816/DevChallenges/tree/main/newsletter)  |
+|  **Business blog card** |[Live Demo](https://yoz0816.github.io/DevChallenges/Business-blog-card/)   |[Source Code](https://github.com/yoz0816/DevChallenges/tree/main/Business-blog-card)    |  
+| **contact page**  | [Live Demo](https://yoz0816.github.io/DevChallenges/contact-page-master/)   |  [Source Code](https://github.com/yoz0816/DevChallenges/tree/main/contact-page-master)     |  
+| **Minimal blog**  | [Live Demo](https://yoz0816.github.io/DevChallenges/Minimal-blog-card/)   |  [Source Code](https://github.com/yoz0816/DevChallenges/tree/main/Minimal-blog-card)     | 
+| **simple feature section**  | [Live Demo](https://yoz0816.github.io/DevChallenges/simple-feature-section-master/)   |  [Source Code](https://github.com/yoz0816/DevChallenges/tree/main/simple-feature-section-master)     | 
+| **simple homepage**  | [Live Demo](https://yoz0816.github.io/DevChallenges/simple-homepage-master/)   |  [Source Code](https://github.com/yoz0816/DevChallenges/tree/main/simple-homepage-master)     | 
+| **Testimonial page**  | [Live Demo](https://yoz0816.github.io/DevChallenges/Testimonial-page-master/)   |  [Source Code](https://github.com/yoz0816/DevChallenges/tree/main/Testimonial-page-master)     | 
 
 
 ## Technologies
