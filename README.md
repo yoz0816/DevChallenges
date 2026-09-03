@@ -37,6 +37,7 @@ The main goal of this repository is to document my frontend development progress
 | **simple feature section**  | [Live Demo](https://yoz0816.github.io/DevChallenges/simple-feature-section-master/)   |  [Source Code](https://github.com/yoz0816/DevChallenges/tree/main/simple-feature-section-master)     | 
 | **simple homepage**  | [Live Demo](https://yoz0816.github.io/DevChallenges/simple-homepage-master/)   |  [Source Code](https://github.com/yoz0816/DevChallenges/tree/main/simple-homepage-master)     | 
 | **Testimonial page**  | [Live Demo](https://yoz0816.github.io/DevChallenges/Testimonial-page-master/)   |  [Source Code](https://github.com/yoz0816/DevChallenges/tree/main/Testimonial-page-master)     | 
+|**simple-faq**   |[Live Demo]("https://yoz0816.github.io/DevChallenges/simple-faq-master/)   |[Source Code](https://github.com/yoz0816/DevChallenges/tree/main/simple-faq-master)     | 
 
 
 ## Technologies
