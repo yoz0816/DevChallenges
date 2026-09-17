@@ -74,8 +74,7 @@ Through these challenges, I am focusing on improving my ability to:
 ## Useful Resources
 
 * [DevChallenges](https://devchallenges.io/) — Frontend development challenges and practice projects.
-* [MDN Web Docs](https://developer.mozilla.org/) — Documentation and references for HTML, CSS, and JavaScript.
-* [CSS-Tricks](https://css-tricks.com/) — Articles and guides about CSS and frontend development.
+* [MDN Web Docs](https://developer.mozilla.org/) — Documentation and references for HTML, CSS, and JavaScript
 
 ## Author
 
