@@ -34,7 +34,6 @@ This project is a responsive Simple Feature Section built from a DevChallenges d
 - Improved my CSS Flexbox and Grid skills.
 - Learned how to create responsive layouts using media queries.
 - Practiced matching spacing, typography, colors, and card dimensions from a reference design.
-- Learned how to make cards maintain equal heights across different screen sizes.
 - Improved my understanding of responsive design for desktop, tablet, and mobile devices.
 
 ### Built with
@@ -55,7 +54,6 @@ This project is a responsive Simple Feature Section built from a DevChallenges d
 - Responsive typography and spacing.
 - Equal-height feature cards.
 - Rounded cards and images.
-- Emoji-based feature icons.
 
 ## Acknowledgements
 
