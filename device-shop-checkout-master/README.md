@@ -60,7 +60,6 @@ While building this project, I practiced and improved my understanding of:
 * Responsive forms
 * Form inputs and select elements
 * Creating a responsive coupon section
-* Aligning Country and Postal Code fields in the same row
 * Working with images and SVG icons
 * Using flexible widths instead of fixed widths
 * Using `min()`, `flex`, and `grid`
