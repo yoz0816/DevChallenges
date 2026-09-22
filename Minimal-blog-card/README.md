@@ -54,8 +54,6 @@ This project is a responsive minimal blog card built from a DevChallenges design
 - Responsive image
 - Custom typography
 - Card shadow and rounded corners
-
-
 ## Acknowledgements
 
 - [devChallenges.io](https://devchallenges.io/) for providing the challenge and design.
