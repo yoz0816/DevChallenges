@@ -57,7 +57,6 @@ While working on this challenge, I practiced:
 - CSS Grid-based layout
 - Responsive typography
 - Decorative background elements
-- Accessible image `alt` text
 
 ## Screenshot
 
