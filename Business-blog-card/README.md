@@ -36,8 +36,6 @@ While working on this challenge, I practiced:
 * Working with images using `object-fit`.
 * Positioning an SVG overlay on top of an image.
 * Managing spacing, borders, rounded corners, and typography.
-* Making the layout adapt to different screen sizes.
-
 ### Useful resources
 
 * [MDN Web Docs - CSS Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout) - Helped me understand and use Flexbox.
