@@ -73,7 +73,6 @@ While working on this project, I practiced:
 - Creating a highlighted pricing card.
 - Working with CSS spacing, borders, colors, and typography.
 - Using `repeat()` and `minmax()` with CSS Grid.
-- Using semantic HTML elements such as `main`, `section`, and `article`.
 
 The main challenge for me was aligning the pricing plans and feature rows
 correctly using CSS Grid.
