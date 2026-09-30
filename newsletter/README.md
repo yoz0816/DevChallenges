@@ -73,7 +73,6 @@ For future projects, I want to continue improving my:
 * CSS typography and spacing
 * Accessibility
 * JavaScript form validation
-* Interactive frontend components
 
 ## Author
 
